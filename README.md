@@ -1,4 +1,4 @@
-# This question was done in the Name and Age file
+# This question was done in the NameAndAge.java file
 
 1. Write a Java program that asks the user to enter their sur name and current age then print the number of characters of their sir name and even or odd depending on their age number.
 
